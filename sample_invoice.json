@@ -1,0 +1,13 @@
+{
+  "invoice_id": "INV-2025-1001",
+  "vendor_name": "example co",
+  "vendor_tax_id": "",
+  "invoice_date": "2025-11-01",
+  "due_date": "2025-11-30",
+  "amount": 100.0,
+  "currency": "USD",
+  "line_items": [
+    { "desc": "Demo Service", "qty": 1, "unit_price": 100.0, "total": 100.0 }
+  ],
+  "attachments": ["inv-2025-1001.pdf"]
+}
